@@ -4,7 +4,7 @@ import vk
 session = vk.Session()
 api = vk.API(session)
 
-token = '247212624:AAEGwk7GtJPRLuGggZp806NqlAGlueC-qt0'
+token = ''
 
 bot = telegram.Bot(token)
 
